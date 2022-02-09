@@ -1,0 +1,2 @@
+
+アダマールテストは第一ビットに Hadamard testHadamard testHadamard test¥braHadamard testHadamard test
